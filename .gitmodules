@@ -1,0 +1,12 @@
+[submodule "tz-llm/tzdriver"]
+	path = tz-llm/tzdriver
+	url = https://github.com/TZ-LLM/tzdriver.git
+[submodule "tz-llm/llama.cpp"]
+	path = tz-llm/llama.cpp
+	url = https://github.com/TZ-LLM/llama.cpp.git
+[submodule "tz-llm/linux-5.10-opi"]
+	path = tz-llm/linux-5.10-opi
+	url = https://github.com/TZ-LLM/linux-5.10-opi.git
+[submodule "tz-llm/tee_os_kernel"]
+	path = tz-llm/tee_os_kernel
+	url = https://github.com/TZ-LLM/tee_os_kernel.git
